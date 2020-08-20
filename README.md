@@ -1,1 +1,3 @@
-# media-app-backend
+# mediapp-backend
+
+Proyecto Curso Mitocode
